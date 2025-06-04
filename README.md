@@ -11,7 +11,7 @@ To simulate a game store interface where users can browse and add games to the c
 - **React**
 - **Redux Toolkit**
 - **React Redux**
-- **JavaScript**
+- **TypeScript**
 - **Styled-components**
 - **Vite**
 
